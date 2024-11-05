@@ -1,0 +1,23 @@
+:root{
+    --text-color:#DBE4EF;
+    --card-front-color:#144480;
+    --card-back-color:#00F4BF;
+}
+
+body{}
+        background: url('assets/bg-desktop.wedp')
+        font-family: 'Times New Roman', Times, serif;
+
+
+#container{
+    
+
+
+    display: flex;
+}
+
+.cartao{
+    margin: 
+
+
+}
