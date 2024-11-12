@@ -1,22 +1,27 @@
-//variaveis
+criaCartao(
+    'Programação',
+    'O que é Python?',
+    'O Python é uma linguagem de programação'
+)
 
-//funções
-
-//chamada
+criaCartao(
+    'Geografia',
+    'Qual a capital da França?',
+    'A capital da França é Paris'
+)
 
 criaCartao(
     'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação',
+    'O que é uma função?',
+    'Uma função é um bloco de código que executa alguma tarefa'
 )
+
 criaCartao(
     'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação',
+    'que filme vc gosta?',
+    'gosto do filme cidade de Deus'
 )
-criaCartao(
-    'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguagem de programação',
-)
+
+
+
 
